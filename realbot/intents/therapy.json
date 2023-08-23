@@ -1,0 +1,21 @@
+{
+  "name": "therapy",
+  "utterances": {
+    "en": [
+      "When a case of cyberbullying is reported, it is important the victim is encouraged to seek therapy?",
+      "what is therapy needed to one who is cyberbullied?",
+      "what helps a victim of cyberbullying to recover from its effects?",
+      "h﻿ow can you inclucate confidence in cyberbullied victims?",
+      "How can you  develop certain safety behaviors in order to deal with resulting depression or anxiety?",
+      "I﻿s therapy needed to one who is severely cyberbullied?",
+      "H﻿ow not to carry longterm effects of cyberbullying?",
+      "d﻿oes therapy much needed for bullied victims?",
+      "h﻿ow can therapy build confidence to people?",
+      "w﻿hat therapy is suggested to cyberbullied victims?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

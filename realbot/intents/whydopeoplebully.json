@@ -1,0 +1,25 @@
+{
+  "name": "whydopeoplebully",
+  "utterances": {
+    "en": [
+      "Why do people cyberbully?",
+      "what is need for cyberbullying?",
+      "why are people bullying me",
+      "what are possible reasons why i am being bullied on regular bases?",
+      "can i know why my friends are bullying me?",
+      "why my friends are bullying me?",
+      "why am i being bullied over internet?",
+      "w﻿hat i am being cyberbullied by people?",
+      "w﻿hy me being bullied?",
+      "w﻿hy my friends bully me?",
+      "why am i being bullied?",
+      "what do people get when they bully",
+      "what do people gain when they bully other people",
+      "what is the reason i am being bullied"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

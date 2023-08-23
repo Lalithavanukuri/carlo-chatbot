@@ -1,0 +1,55 @@
+{
+  "locked": false,
+  "details": {
+    "website": "",
+    "phoneNumber": "",
+    "emailAddress": "",
+    "termsConditions": "",
+    "privacyPolicy": "",
+    "avatarUrl": "/api/v1/bots/realbot/media/h3oxkzbk1192y6181qkp-footer_robot.gif",
+    "coverPictureUrl": "/api/v1/bots/realbot/media/65ivo23fqai79vxpo3xk-lali_bot.jpg"
+  },
+  "skillChoice": {
+    "matchNLU": true,
+    "matchNumbers": true
+  },
+  "skillSendEmail": {
+    "transportConnectionString": "<<change me>>"
+  },
+  "$schema": "../../bot.config.schema.json",
+  "description": "",
+  "active": true,
+  "name": "carlo",
+  "author": "Botpress, Inc.",
+  "license": "AGPL-3.0",
+  "imports": {
+    "modules": [],
+    "incomingMiddleware": [],
+    "outgoingMiddleware": []
+  },
+  "dialog": {
+    "timeoutInterval": "5m"
+  },
+  "logs": {
+    "expiration": "1 week"
+  },
+  "defaultLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "id": "realbot",
+  "messaging": {
+    "clientId": "937db048-6814-411b-8daa-a69cc69f18b8",
+    "clientToken": "0ed83690-f05c-412d-bca6-23fa45f265a4.0bPYvPr3O5Fku8jPD85FEj92x2RBd2enZxRFWzWNgrlmbfHCSbiqV4J3ithyyWsfDIKs0+FEZ1eJaz8nXe65L4n3",
+    "channels": {},
+    "webhookToken": "a4Cm8YVVBL7z5WqX/sZinK4JkpMl8hlEn7eABn0FL5yuWPg/VazhMFK1hNhGAdpAPs1+VPr82jQS7wnnnehMJ8R6"
+  },
+  "cloud": {
+    "botId": "77c0fa47-ad9a-4d9d-946f-50611423ffe6",
+    "workspaceId": "b38948ca-a8fe-4430-af6c-0316fee3db23"
+  },
+  "nluModels": {
+    "en": "d3acf09bf8b6f377.b2eeb23efb448373.8260.en"
+  },
+  "showBotInfoPage": true
+}

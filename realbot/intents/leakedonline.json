@@ -1,0 +1,24 @@
+{
+  "name": "leakedonline",
+  "utterances": {
+    "en": [
+      "What to do if your sensitive images or videos are leaked online?",
+      "w﻿hat are the steps to be taken when someone blackmails us by leaking our pictures online?",
+      "w﻿hat should when our information leaked online?",
+      "w﻿hat can i do if information leaked online?",
+      "w﻿hat are the measures should i take after leaking my information?",
+      "w﻿hat i should whem someone is blackmailing me?",
+      "I﻿f my videos are released online what should i do?",
+      "w﻿hat can i do if my pictures leaked under cyberbullying?",
+      "w﻿hat to do if my details are leaked?",
+      "w﻿hat steps should should i take when my pictues are morphed online?",
+      "w﻿hat steps should should i take when my morphed videos are leaked online?",
+      "someone is having my pictures without my consent",
+      "someone is having my videos without my permission"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

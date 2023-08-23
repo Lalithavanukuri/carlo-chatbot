@@ -1,0 +1,21 @@
+{
+  "name": "preventivemeasures",
+  "utterances": {
+    "en": [
+      "How can I prevent cyberbullying?",
+      "How do I prevent cyberbullying from happening?",
+      "Can i write and forward things without fact checking?",
+      "Is raising awareness important in case of cyber bullying?",
+      "h﻿ow to be safe online?",
+      "w﻿hat can i do to stay safe?",
+      "w﻿hat steps can be taken to not fall under cyber attacks?",
+      "h﻿ow can i prevent myself from the cyber attackers?",
+      "w﻿hat are the tips to be safe online?",
+      "s﻿ocial media tips to avoid cyberattacks?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

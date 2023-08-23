@@ -1,0 +1,298 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": []
+  },
+  "startNode": "entry",
+  "nodes": [
+    {
+      "id": "entry",
+      "name": "entry",
+      "next": [
+        {
+          "condition": "true",
+          "node": "choice-c90e8e"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-iPmE11"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "skill-c90e8e",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "choice-c90e8e",
+      "flow": "skills/choice-c90e8e.flow.json",
+      "next": [
+        {
+          "caption": "User picked [Yes, I ...]",
+          "condition": "temp['skill-choice-ret-oi29vfn41l'] == \"Yes, I need to file a complaint to cyber crime police.\"",
+          "node": "node-99d1"
+        },
+        {
+          "caption": "User picked [No, but...]",
+          "condition": "temp['skill-choice-ret-oi29vfn41l'] == \"No, but i want you to help me with something else\"",
+          "conditionType": "raw",
+          "node": "flow"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "node-8218"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "skill-4eb983",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "flow",
+      "flow": "skills/choice-4eb983.flow.json",
+      "next": [
+        {
+          "caption": "User picked [I would...]",
+          "condition": "temp['skill-choice-ret-s8g5s1rume'] == \"I would like to know more about mental health related issues.\"",
+          "node": "node-4f0f"
+        },
+        {
+          "caption": "User picked [I would...]",
+          "condition": "temp['skill-choice-ret-s8g5s1rume'] == \"I would like to know more about cyber crimes.\"",
+          "node": "node-5f1d"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "node-2548"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "097c99d241",
+      "name": "node-99d1",
+      "next": [
+        {
+          "condition": "true",
+          "node": "choice-d416a3"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-sN2J06"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "skill-d416a3",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "choice-d416a3",
+      "flow": "skills/choice-d416a3.flow.json",
+      "next": [
+        {
+          "caption": "User picked [Gmail]",
+          "condition": "temp['skill-choice-ret-o7jesxj5bp'] == \"Gmail\"",
+          "node": "node-9ed9"
+        },
+        {
+          "caption": "User picked [Phone]",
+          "condition": "temp['skill-choice-ret-o7jesxj5bp'] == \"Phone\"",
+          "node": "node-3805"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "node-ccaf"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "85acb6acab",
+      "name": "node-8218",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "choice-c90e8e"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-EBJLVw"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "1b5b7d1bf7",
+      "name": "node-ccaf",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "choice-d416a3"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-vejTWx"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "4c7acad9b8",
+      "name": "node-9ed9",
+      "next": [
+        {
+          "condition": "true",
+          "node": "choice-93a613"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-DriPvc",
+        "say #!builtin_text-nWlNpB"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "09fc26937a",
+      "name": "node-3805",
+      "next": [
+        {
+          "condition": "true",
+          "node": "choice-93a613"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-yQ2llq",
+        "say #!builtin_text-661AV8"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "b73d5f3ea5",
+      "name": "node-4f0f",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "support.flow.json"
+        }
+      ],
+      "onEnter": [],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "f86db12218",
+      "name": "node-5f1d",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "queries.flow.json"
+        }
+      ],
+      "onEnter": [],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "skill-93a613",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "choice-93a613",
+      "flow": "skills/choice-93a613.flow.json",
+      "next": [
+        {
+          "caption": "User picked [Yes]",
+          "condition": "temp['skill-choice-ret-zl2r41n5d5'] == \"Yes\"",
+          "node": "node-29d7"
+        },
+        {
+          "caption": "User picked [No]",
+          "condition": "temp['skill-choice-ret-zl2r41n5d5'] == \"No\"",
+          "node": "node-da54"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "node-f139"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "bf8084334c",
+      "name": "node-29d7",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "flow"
+        }
+      ],
+      "onEnter": [],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "f085b92211",
+      "name": "node-da54",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-Pum0Yl"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "751b99868e",
+      "name": "node-2548",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "flow"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-cwXWyG"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "578a4806d8",
+      "name": "node-f139",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "choice-93a613"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-cwXWyG"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

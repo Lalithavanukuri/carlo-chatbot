@@ -1,0 +1,35 @@
+{
+  "name": "canitrust",
+  "utterances": {
+    "en": [
+      "What if I'm not comfortable notifying parents/guardians? Who else can I contact?",
+      "What other options do i have other than opening up to my parents?",
+      "I think i am not comfortable enough to share things with my parents, what to do?",
+      "Can i share my problems with my friends instead of my parents?",
+      "Should I notify parents/guardians about this issue?",
+      "do i really need to let my parents know about my condition?",
+      "Should i share my problem with adults?",
+      "w﻿hat to do if i dont want to talk with my parents about this",
+      "c﻿an i suffer alone without letting my parents know?",
+      "Can i trust people or should i keep things only inside me",
+      "I think i have no one to support me.",
+      "Is it okay to suffer alone without sharing my problem with my friends and family.",
+      "how can i get rid of my loneliness.",
+      "Is it okay to suffer alone",
+      "i﻿ feel so lonely",
+      "n﻿othing is exciting me anymore",
+      "i﻿ am feeling really depressed",
+      "i﻿ am really feeling alone",
+      "i﻿ am feeling down",
+      "i feel very sad",
+      "i﻿ am not feeling like sharing my problems with my friends",
+      "m﻿y past is haunting me",
+      "m﻿y past memories are really hurting me",
+      "i﻿ am really scared and feeling so low"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

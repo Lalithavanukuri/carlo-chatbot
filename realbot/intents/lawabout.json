@@ -1,0 +1,22 @@
+{
+  "name": "lawabout",
+  "utterances": {
+    "en": [
+      "What does the law say about leaking of sensitive information?",
+      "I﻿s they are punisment under law to the one who cyberbullies?",
+      "w﻿hat punishment given to cyberattackers?",
+      "h﻿ow the law protects us from cyberbullying?",
+      "w﻿hat can law do to one who leaking our sensitive information?",
+      "w﻿hat action to be taken by indian courts regarding bullies",
+      "action blackmails by leaking our images and pictures online?",
+      "h﻿ow the action been taken against cybercrime criminal lawfully?",
+      "w﻿hat action is taken against attacker?",
+      "I﻿s a person liable to court who cyberbullied people?",
+      "u﻿nder which act court punishes cybercrimnal?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

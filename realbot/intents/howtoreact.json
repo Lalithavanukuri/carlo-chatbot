@@ -1,0 +1,31 @@
+{
+  "name": "howtoreact",
+  "utterances": {
+    "en": [
+      "i﻿'m scared of these threats that am getting from unknown persons",
+      "w﻿hat should i do if someone is threatening me for money",
+      "w﻿hat should i do if someone is threatening me with my pictures",
+      "i'm being teased online",
+      "how to approach police if my sensitive content is leaked",
+      "how to approach a blackmail",
+      "s﻿eems like someone hacked my account, what to do?",
+      "w﻿hat to do when someone is threatening me",
+      "What should I respond to the attackers",
+      "h﻿ow to approach to the online threats",
+      "s﻿omeone is blackmailing me",
+      "s﻿hould i react to bullying",
+      "s﻿hould i react to threatening",
+      "s﻿hould i react to online threats",
+      "i﻿ am afraid that something might happen to me",
+      "someone is blackmailing me",
+      "What should I respond to the attackers",
+      "someone hacked my account",
+      "im being assaulted",
+      "im being bullied"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}
