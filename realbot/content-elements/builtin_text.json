@@ -1,0 +1,682 @@
+[
+  {
+    "id": "builtin_text-iPmE11",
+    "formData": {
+      "text$en": "My name is carlo and I'm a friendly bot designed for cyber crime police station, vijayawada. I'm here to help you.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T16:19:51.670Z",
+    "modifiedOn": "2022-12-21T15:19:31.522Z"
+  },
+  {
+    "id": "builtin_text-sN2J06",
+    "formData": {
+      "text$en": "So okay, I will now provide you with the information to file a complaint",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T16:30:25.975Z",
+    "modifiedOn": "2022-12-21T15:22:04.786Z"
+  },
+  {
+    "id": "builtin_text-EBJLVw",
+    "formData": {
+      "text$en": "Sorry please pick from above choices only.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T16:33:12.949Z",
+    "modifiedOn": "2022-11-24T16:33:12.949Z"
+  },
+  {
+    "id": "builtin_text-vejTWx",
+    "formData": {
+      "text$en": "sorry please pick from above choices only.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T16:34:37.151Z",
+    "modifiedOn": "2022-11-24T16:34:37.151Z"
+  },
+  {
+    "id": "builtin_text-DriPvc",
+    "formData": {
+      "text$en": "Please write down your complaint to the given Gmail address.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T16:35:31.364Z",
+    "modifiedOn": "2022-11-24T16:35:31.364Z"
+  },
+  {
+    "id": "builtin_text-nWlNpB",
+    "formData": {
+      "text$en": "cyberpolicingcellvza@gmail.com",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T16:36:20.401Z",
+    "modifiedOn": "2022-11-24T16:36:20.401Z"
+  },
+  {
+    "id": "builtin_text-yQ2llq",
+    "formData": {
+      "text$en": "Contact Details\nLandline Number - 0866-2970433 \nMobile Number - 8333993110",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T16:37:51.688Z",
+    "modifiedOn": "2022-11-24T16:37:51.688Z"
+  },
+  {
+    "id": "builtin_text-661AV8",
+    "formData": {
+      "text$en": "National Cyber Crime Helpline - 1930",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T16:38:17.280Z",
+    "modifiedOn": "2022-11-24T16:38:17.280Z"
+  },
+  {
+    "id": "builtin_text-Pum0Yl",
+    "formData": {
+      "text$en": "Thank you!",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T16:43:22.075Z",
+    "modifiedOn": "2022-11-24T16:43:22.075Z"
+  },
+  {
+    "id": "builtin_text-cwXWyG",
+    "formData": {
+      "text$en": "Please select from above choice only.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T16:46:17.228Z",
+    "modifiedOn": "2022-11-24T16:46:17.228Z"
+  },
+  {
+    "id": "builtin_text-5Q2XDW",
+    "formData": {
+      "text$en": "Sure, ask me.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:08:15.244Z",
+    "modifiedOn": "2022-11-24T17:08:15.244Z"
+  },
+  {
+    "id": "builtin_text-RNx8zi",
+    "formData": {
+      "text$en": "Cyber harassment is the use of email, instant messaging, and websites to bully or harass an individual or  group through personal attacks.It is very difficult to verify because we often do not understand the history or context of the situation.",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "Cyber harassment can be in the form of derogatory or insulting comments made in chat rooms, e-mail, block postings, or comments on social networking sites. Those responsible for harassment are often difficult to track as the perpetrator is often anonymous."
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:16:40.584Z",
+    "modifiedOn": "2022-12-21T15:40:04.045Z"
+  },
+  {
+    "id": "builtin_text-cnkkX1",
+    "formData": {
+      "text$en": "yes please ask me",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:18:33.157Z",
+    "modifiedOn": "2022-11-25T05:11:36.231Z"
+  },
+  {
+    "id": "builtin_text-CU_xfJ",
+    "formData": {
+      "text$en": "cyber bullying includes\n1.Sending, sharing or posting nasty, hurtful or abusive messages or emails Humiliating others by posting/sharing embarrassing videos or images \n2.Repeated harassment and threatening messages also known as cyberstalking",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "cyberbullying includes\n1. Tagging someone inappropriately in an image Spreading rumors or lies online Trolling - saying means things to stir people up Imitating others online\n2. Making threats towards another person Excluding others online Online peer pressure\n"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:23:00.237Z",
+    "modifiedOn": "2022-12-21T15:52:05.764Z"
+  },
+  {
+    "id": "builtin_text-DVIztm",
+    "formData": {
+      "text$en": "Like bullying in person, cyberbullying which is also known as online bullying, is repeated deliberate behavior intended to tease, demean, or harass someone in a less powerful position.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:24:22.311Z",
+    "modifiedOn": "2022-12-21T15:36:11.706Z"
+  },
+  {
+    "id": "builtin_text-OIMrce",
+    "formData": {
+      "text$en": "Like bullying in person, cyberbullying which is also known as online bullying, is repeated deliberate behavior intended to tease, demean, or harass someone in a less powerful position.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:24:54.414Z",
+    "modifiedOn": "2022-11-24T17:24:54.414Z"
+  },
+  {
+    "id": "builtin_text-bbUvzi",
+    "formData": {
+      "text$en": "Verbal bullying, Social bullying and Physical bullying. ",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:25:20.781Z",
+    "modifiedOn": "2022-11-24T17:29:12.554Z"
+  },
+  {
+    "id": "builtin_text-ywdfUf",
+    "formData": {
+      "text$en": "By contrast, cyberbullying uses electronic media and information technology as the means for carrying out the harassment.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:26:31.709Z",
+    "modifiedOn": "2022-12-21T15:36:40.797Z"
+  },
+  {
+    "id": "builtin_text-NsaMwp",
+    "formData": {
+      "text$en": "Since cyberbullying is online, it exposes the victim to harm 24 hours a day, can be made anonymously, and can potentially be broadcast to a far wider audience than in-person attacks. ",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:27:18.352Z",
+    "modifiedOn": "2022-11-24T17:27:18.352Z"
+  },
+  {
+    "id": "builtin_text-aw9dkN",
+    "formData": {
+      "text$en": "Sorry i can't understand.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:27:55.057Z",
+    "modifiedOn": "2022-11-24T17:44:42.881Z"
+  },
+  {
+    "id": "builtin_text-VspAXD",
+    "formData": {
+      "text$en": "Where verbal bullying includes Teasing, Name-calling, Making inappropriate sexual comments, Taunting and Threatening to cause harm",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:29:54.381Z",
+    "modifiedOn": "2022-12-21T16:01:55.166Z"
+  },
+  {
+    "id": "builtin_text-LSNGTx",
+    "formData": {
+      "text$en": "1.Protect your password\n2.Before sending a racy photo of yourself to a peer or posting it online, consider if this is something you would want others to see, especially your family. Bullies can use this picture as ammunition to make your life miserable.\n3.Pause before you post\n4.Set up privacy controls\n",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "1.Log out of your accounts on public computers\n2.Every once in a while search our name on all major search engines and see if any personal information or photos come up. If you find something that can be used by cyberbullies to target you, take action and have it removed.\n3.Never open messages from people you don't know"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:31:22.332Z",
+    "modifiedOn": "2022-12-21T16:19:57.318Z"
+  },
+  {
+    "id": "builtin_text-FQ8tVt",
+    "formData": {
+      "text$en": "Raise awareness of the cyberbullying problem in your community by holding an assembly and creating fliers to give to younger kids or parents",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:31:55.906Z",
+    "modifiedOn": "2022-11-24T17:31:55.906Z"
+  },
+  {
+    "id": "builtin_text-7dbyOt",
+    "formData": {
+      "text$en": "Don't Panic",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:32:50.863Z",
+    "modifiedOn": "2022-11-24T17:32:50.863Z"
+  },
+  {
+    "id": "builtin_text-6FKjet",
+    "formData": {
+      "text$en": "Report to law enforcement authorities",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:34:10.368Z",
+    "modifiedOn": "2022-11-24T17:34:10.368Z"
+  },
+  {
+    "id": "builtin_text-Ozdyjv",
+    "formData": {
+      "text$en": " Help is just a ring away",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:35:06.901Z",
+    "modifiedOn": "2022-11-24T17:35:45.400Z"
+  },
+  {
+    "id": "builtin_text-168qdH",
+    "formData": {
+      "text$en": "In reference to Prevention of Electronic Crimes Act (PECA) 2016: Intentionally and publicly exhibiting sensitive images and videos which is harmful to a natural person or his reputation to take revenge, blackmail or create hatred shall be punished under s21 of PECA for a term which may extend to five years.  ",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "Even if the pictures or videos were initially shared  with someone consensually they have no right to share it with other people or use them online. ",
+        "Blackmailing people with their intimate and sensitive images and threatening to upload or distribute those images to the victim’s family is equally punishable under law.",
+        "Intentionally and publicly exhibiting sensitive images and videos which is harmful to a natural person or his reputation to take revenge, blackmail or create hatred shall be punished"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:40:23.745Z",
+    "modifiedOn": "2022-12-21T16:25:24.419Z"
+  },
+  {
+    "id": "builtin_text-k-_AlV",
+    "formData": {
+      "text$en": "There are many web service resources on the World Wide Web you can try, including:",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "You can reach out to friends, neighbors, and trusted adults. If you don’t have anyone to share this with, you can try one of the resources at: http://www.stompoutbullying.org/index.php/information-and-resources/helpchat-line/\nIf you or someone you know is experiencing emotional distress or a suicidal crisis, please contact your local suicide prevention lifeline, such as http://www.suicidepreventionlifeline.org/gethelp/bullying.aspx,  or reach out to your school or family counselor."
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:41:15.072Z",
+    "modifiedOn": "2022-11-25T05:34:46.506Z"
+  },
+  {
+    "id": "builtin_text-6NdiqP",
+    "formData": {
+      "text$en": "www.bullying.org",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:42:20.943Z",
+    "modifiedOn": "2022-11-24T17:42:20.943Z"
+  },
+  {
+    "id": "builtin_text-iB_6Xp",
+    "formData": {
+      "text$en": "http://cyberbullying.us",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:42:49.119Z",
+    "modifiedOn": "2022-11-24T17:42:49.119Z"
+  },
+  {
+    "id": "builtin_text-a6u3IX",
+    "formData": {
+      "text$en": "http://www.bullybust.org/resources/key_resources",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:43:40.052Z",
+    "modifiedOn": "2022-11-24T17:43:40.052Z"
+  },
+  {
+    "id": "builtin_text-23onxA",
+    "formData": {
+      "text$en": "How about asking something new, huh?",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-24T17:46:06.697Z",
+    "modifiedOn": "2022-11-24T17:46:06.697Z"
+  },
+  {
+    "id": "builtin_text-eE-4ai",
+    "formData": {
+      "text$en": "If you are a victim of cyberbullying, know that you are not alone and there are options to help.Talk with friends and family and don't hide things or keep them to yourself.",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "If you are struggling, you can always contact for help to trusted persons.. It won't bring any good to you by hiding all the truth. ",
+        "The first thing you have to do is tell an adult you trust and do not let yourself suffer alone It's not really a good idea to suffer alone because it may have many serious consequences."
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:18:46.902Z",
+    "modifiedOn": "2022-12-21T16:31:52.722Z"
+  },
+  {
+    "id": "builtin_text-YW1N4x",
+    "formData": {
+      "text$en": "Keeping things all for one self can cause serious mental diseases like depression and one might also think about taking their lives. So it's always recommandable to take an advice from trusted people.",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "Suggest that they block and report the cyberbully.\nHelp them check their privacy settings so their information is protected.Check out the eSafety website for useful tips on dealing with cyberbullying.Together, talk to an adult - family member, teacher, coach - about the cyberbullying so they are also aware of what's happening.",
+        "If you feel that your friend is unsafe and may hurt themselves call Helpline, tell a counsellor, or a trusted adult.Remember that it is not your responsibility to 'fix' the problem, but you can be there to support your friend"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:21:10.882Z",
+    "modifiedOn": "2022-12-21T16:33:28.050Z"
+  },
+  {
+    "id": "builtin_text-T2b7LF",
+    "formData": {
+      "text$en": "There have always been people who choose to  behave like a bully and those who are unfortunate targets. One theory is that cyberbullies have difficulty feeling empathy for others. Low empathy has certainly been attributed to increased use of technology and less real-world social interaction.  ",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "This is because cyberbullying also allows a bully to feel more powerful. Through the use of technology, a cyberbully can easily and effortlessly unleash a torrent of torment at any time, all from the safe harbor of their own home, with little concern or repercussions.",
+        "A lack of parental monitoring is another contributing factor, as is the desire to achieve popularity through acts they feel resonate well with their peers and associates.",
+        " Cyberbullies generally have the intention of creating harm when they engage in online bullying."
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:25:20.466Z",
+    "modifiedOn": "2022-12-21T16:39:20.361Z"
+  },
+  {
+    "id": "builtin_text-MaFNWM",
+    "formData": {
+      "text$en": "However, bullying can still take place without intention if a victim perceives actions to be harmful.",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "Regardless of the reasons, cyberbullies sometimes face their own dark futures. Studies show that kids who bully others are more likely to abuse drugs and alcohol, engage in fights and criminal behavior, drop out of school, or be abusive toward their partners or their children.",
+        "Even the bystanders and witnesses are not immune to the effects of cyberbullying. They may also have an increased likelihood of experimenting with drugs and alcohol at an early age or suffering emotional distress and mental health problems.",
+        "As an interesting side note, one study states that cyberbullying is more likely to occur between current or former friends. The report further states that cyberbullying occurs seven times more frequently among teens who know each other than among people who had never been friends or dated"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:26:05.477Z",
+    "modifiedOn": "2022-12-21T16:44:09.378Z"
+  },
+  {
+    "id": "builtin_text-bWmTJn",
+    "formData": {
+      "text$en": "2 kinds of Psychotherapies are particularly effective in helping a victim of cyberbullying recover from its effects:",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:27:13.444Z",
+    "modifiedOn": "2022-11-25T05:27:13.444Z"
+  },
+  {
+    "id": "builtin_text-vSpv7i",
+    "formData": {
+      "text$en": "Assertiveness training:   Victims of cyberbullying often need help in building their confidence to stand up to their bullies.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:27:31.270Z",
+    "modifiedOn": "2022-12-21T16:45:29.273Z"
+  },
+  {
+    "id": "builtin_text-nUjqbp",
+    "formData": {
+      "text$en": "Cognitive behavioral therapy (CBT):  Many victims of cyberbullying tend to develop certain safety behaviors in order to deal with resulting depression or anxiety. ",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "CBT helps victims overcome these as it is effective in retraining the victim so that they may be able to change their behaviors or thoughts for a positive change in their daily life"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:27:54.548Z",
+    "modifiedOn": "2022-12-21T16:46:48.292Z"
+  },
+  {
+    "id": "builtin_text-YoEKog",
+    "formData": {
+      "text$en": "1.Let them know that you care about them and you don't agree with what's happening.\n2. Remind them they're brave and it's ok to talk about it. \n3.Help them collect and save the evidence \ne.g. screenshots, photos, texts, emails.",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "1.Suggest that they block and report the cyberbully.\n2.Help them check their privacy settings so their information is protected.\n3.Check out the eSafety website for useful tips on dealing with cyberbullying.\n4.Together, talk to an adult - family member, teacher, coach - about the cyberbullying so they are also aware of what's happening.",
+        "1.Remind your friend that it's ok to get professional help from people like a school counsellor, psychologist, or Kids Helpline.\n2.Even if your friend makes you promise not to tell anyone, it's really important that an adult knows what's going on - especially if they're in danger of getting hurt.",
+        "1.If you feel that your friend is unsafe and may hurt themselves call Helpline, tell a counsellor, or a trusted adult.\n2.Remember that it is not your responsibility to 'fix' the problem, but you can be there to support your friend"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:29:53.841Z",
+    "modifiedOn": "2022-12-21T16:51:04.986Z"
+  },
+  {
+    "id": "builtin_text-CMyT1L",
+    "formData": {
+      "text$en": "Listen and encourage them to talk about their situation . show empathy for their situation and take them seriously.Dont leave them alone.",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "If the person does not want you to get help, you should advise them that you need to because you are legally obliged to do so as you are concerned for their safety.",
+        "Discuss the ways that you can get them help and if they agree follow up and get the help (e.g. contact their doctor or call a mental health centre or crisis hotline for advice).",
+        "Tell them you care  \nask how you can help  urge them to talk to a professional",
+        "1.ask them if they want to talk \n2.remind them that they matter \n3.remind them it's ok to feel the way they feel"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:36:40.128Z",
+    "modifiedOn": "2022-12-21T16:56:38.980Z"
+  },
+  {
+    "id": "builtin_text-oV3TVM",
+    "formData": {
+      "text$en": "Tell them you care  \nask how you can help  urge them to talk to a professional",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "1.ask them if they want to talk \n2.remind them that they matter \n3.remind them it's ok to feel the way they feel"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:37:32.909Z",
+    "modifiedOn": "2022-12-21T16:54:59.854Z"
+  },
+  {
+    "id": "builtin_text-LhcOEy",
+    "formData": {
+      "text$en": "Assure them they're not weak or defective  emphasize that there's hope.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:37:43.228Z",
+    "modifiedOn": "2022-12-21T16:57:38.811Z"
+  },
+  {
+    "id": "builtin_text-Q8wjjC",
+    "formData": {
+      "text$en": "Be supportive and responsive to all kids who have been involved in bullying situations, whether they are being bullied or are bullying others",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        " Get the full story: Listen carefully and take it seriously. It may not be simple: the child or teen may be the target of bullying or may be bullying someone as well. ",
+        " Make a plan together. Ask what you can do to help, and make the child's answers the basis for the plan. Discuss what each of you will do. ",
+        "Get help. Find counselors or other experts trained to deal with kids who have been bullied or have bullied others."
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:38:47.755Z",
+    "modifiedOn": "2022-12-21T16:59:56.644Z"
+  },
+  {
+    "id": "builtin_text-TZtVeG",
+    "formData": {
+      "text$en": "Don't blame the target of bullying even if he or she started it because no one deserves to be bullied.  Advise kids not to respond or retaliate.",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "Save the material in case authorities need it. Report cyberbullying to the website or company where the abuse occurred. ",
+        "If you feel your child is physically at risk, call the police immediately."
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:39:18.378Z",
+    "modifiedOn": "2022-12-21T17:00:41.089Z"
+  },
+  {
+    "id": "builtin_text-PM9i4b",
+    "formData": {
+      "text$en": "1.Donot panic. \n2.you are not alone but you have to reachout for help. 3.If you can't reach police tell someone you trust But if it's threatening its better to act now and reach police take screenshots of everything for proof",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:41:16.204Z",
+    "modifiedOn": "2022-12-21T16:48:02.879Z"
+  },
+  {
+    "id": "builtin_text-c9_4_0",
+    "formData": {
+      "text$en": "Sorry for troubling you, I don't quite get  it.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:41:50.033Z",
+    "modifiedOn": "2022-11-25T05:41:50.033Z"
+  },
+  {
+    "id": "builtin_text-02AAY-",
+    "formData": {
+      "text$en": "Hey! how about asking something new, huh?",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:42:06.767Z",
+    "modifiedOn": "2022-11-25T05:42:06.767Z"
+  },
+  {
+    "id": "builtin_text-ugAF6R",
+    "formData": {
+      "text$en": "It's okay. Time will heal everything You'll be able to move on soon and people around you will understand you and will be there for you Life is a lot more than this. It's going to be fine",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": [
+        "Time will heal everything. Meanwhile do things that can help or calm you. talk to people around you."
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:45:25.550Z",
+    "modifiedOn": "2022-12-21T17:11:17.986Z"
+  },
+  {
+    "id": "builtin_text-_mEZeZ",
+    "formData": {
+      "text$en": "Don't worry. It's okay to cry and let things out because crying doesn't mean that you are weak instead it makes you feel lighter.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:45:42.710Z",
+    "modifiedOn": "2022-12-21T17:11:38.658Z"
+  },
+  {
+    "id": "builtin_text-g-VHPa",
+    "formData": {
+      "text$en": "I understand. we all feel low now and then Dont let what happened haunt you. but there are people around you, reach out. do things you always liked. hear some songs, I'm here if you want to talk.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-11-25T05:47:17.814Z",
+    "modifiedOn": "2022-12-21T16:28:17.479Z"
+  },
+  {
+    "id": "builtin_text-Rvb9KG",
+    "formData": {
+      "text$en": "Physical bullying includes hitting, kicking, tripping, pinching and pushing or damaging property",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-12-21T15:59:53.000Z",
+    "modifiedOn": "2022-12-21T15:59:53.000Z"
+  },
+  {
+    "id": "builtin_text-JUkX7T",
+    "formData": {
+      "text$en": "social bullying means leaving someone out on purpose. Telling other people not to be friends with someone.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-12-21T16:00:55.950Z",
+    "modifiedOn": "2022-12-21T16:03:12.051Z"
+  },
+  {
+    "id": "builtin_text--iHAiQ",
+    "formData": {
+      "text$en": "Hey!! Please don't say that .Your life is really valuable .There are people who care about you.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-12-21T17:26:20.167Z",
+    "modifiedOn": "2022-12-21T17:26:20.167Z"
+  },
+  {
+    "id": "builtin_text-2vhuXG",
+    "formData": {
+      "text$en": "No matter what your parents say, they never wish for your suffering nor do they want you to be dead.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-12-21T17:29:31.127Z",
+    "modifiedOn": "2022-12-21T17:29:31.127Z"
+  },
+  {
+    "id": "builtin_text-HDMV4X",
+    "formData": {
+      "text$en": "",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2023-04-25T08:22:00.200Z",
+    "modifiedOn": "2023-04-25T08:22:00.200Z"
+  }
+]

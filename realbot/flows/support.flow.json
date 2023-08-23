@@ -1,0 +1,246 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "description": "",
+  "nodes": [
+    {
+      "id": "bbdbc7ec57",
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_text-cnkkX1"
+      ],
+      "onReceive": null,
+      "next": [
+        {
+          "condition": "true",
+          "node": "supportnode"
+        }
+      ],
+      "type": "standard"
+    },
+    {
+      "id": "377f551115",
+      "name": "supportnode",
+      "next": [
+        {
+          "condition": "event.nlu.intent.name === 'canitrust'",
+          "conditionType": "intent",
+          "node": "node-427c"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'whydopeoplebully'",
+          "conditionType": "intent",
+          "node": "node-a6e1"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'therapy'",
+          "conditionType": "intent",
+          "node": "node-397e"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'howtoreact'",
+          "conditionType": "intent",
+          "node": "node-5c14"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'supportfrnd'",
+          "conditionType": "intent",
+          "node": "node-dd33"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'killthemselves'",
+          "conditionType": "intent",
+          "node": "node-3b14"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'asaparent'",
+          "conditionType": "intent",
+          "node": "node-8316"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'cry'",
+          "conditionType": "intent",
+          "node": "node-d71e"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'suicide'",
+          "conditionType": "intent",
+          "node": "node-6670"
+        },
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "queries.flow.json#querynode"
+        },
+        {
+          "condition": "true",
+          "node": "node-c0e8"
+        }
+      ],
+      "onEnter": [],
+      "onReceive": [],
+      "type": "standard"
+    },
+    {
+      "id": "014db36a5b",
+      "name": "node-397e",
+      "next": [
+        {
+          "condition": "true",
+          "node": "supportnode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-bWmTJn",
+        "say #!builtin_text-vSpv7i",
+        "say #!builtin_text-nUjqbp"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "7790470b73",
+      "name": "node-dd33",
+      "next": [
+        {
+          "condition": "true",
+          "node": "supportnode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-YoEKog"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "dd17b00210",
+      "name": "node-5c14",
+      "next": [
+        {
+          "condition": "true",
+          "node": "supportnode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-PM9i4b"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "3785c174b8",
+      "name": "node-3b14",
+      "next": [
+        {
+          "condition": "true",
+          "node": "supportnode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-CMyT1L",
+        "say #!builtin_text-LhcOEy"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "0df2c78f79",
+      "name": "node-8316",
+      "next": [
+        {
+          "condition": "true",
+          "node": "supportnode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-Q8wjjC",
+        "say #!builtin_text-TZtVeG"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "1c2e30bb70",
+      "name": "node-a6e1",
+      "next": [
+        {
+          "condition": "true",
+          "node": "supportnode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-T2b7LF",
+        "say #!builtin_text-MaFNWM"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "8960f3216a",
+      "name": "node-427c",
+      "next": [
+        {
+          "condition": "true",
+          "node": "supportnode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-g-VHPa",
+        "say #!builtin_text-eE-4ai",
+        "say #!builtin_text-YW1N4x"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "a3c7192a3a",
+      "name": "node-c0e8",
+      "next": [
+        {
+          "condition": "true",
+          "node": "supportnode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-c9_4_0",
+        "say #!builtin_text-02AAY-"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "4c5cf33be5",
+      "name": "node-d71e",
+      "next": [
+        {
+          "condition": "true",
+          "node": "supportnode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-_mEZeZ",
+        "say #!builtin_text-ugAF6R"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "43fd45efc0",
+      "name": "node-6670",
+      "next": [
+        {
+          "condition": "true",
+          "node": "supportnode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text--iHAiQ",
+        "say #!builtin_text-2vhuXG"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

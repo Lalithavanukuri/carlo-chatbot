@@ -1,0 +1,368 @@
+{
+  "nodes": [
+    {
+      "id": "e8f45ae640",
+      "position": {
+        "x": -555,
+        "y": -95
+      }
+    },
+    {
+      "id": "e16ce323da",
+      "position": {
+        "x": -235,
+        "y": -145
+      }
+    },
+    {
+      "id": "88517b7608",
+      "position": {
+        "x": 55,
+        "y": -675
+      }
+    },
+    {
+      "id": "bbec391398",
+      "position": {
+        "x": 705,
+        "y": -665
+      }
+    },
+    {
+      "id": "20e4c2d0d8",
+      "position": {
+        "x": 1000,
+        "y": -450
+      }
+    },
+    {
+      "id": "29b30daf59",
+      "position": {
+        "x": 570,
+        "y": 160
+      }
+    },
+    {
+      "id": "a2ff1cfc62",
+      "position": {
+        "x": 575,
+        "y": 535
+      }
+    },
+    {
+      "id": "ab5bf115e7",
+      "position": {
+        "x": 40,
+        "y": 500
+      }
+    },
+    {
+      "id": "45e6cbe765",
+      "position": {
+        "x": -345,
+        "y": 275
+      }
+    },
+    {
+      "id": "289ce19cac",
+      "position": {
+        "x": 1010,
+        "y": 90
+      }
+    },
+    {
+      "id": "268dd77373",
+      "position": {
+        "x": 1035,
+        "y": -185
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "20e4c2d0d8",
+      "sourcePort": "out0",
+      "target": "e16ce323da",
+      "points": [
+        {
+          "x": 1201,
+          "y": -300
+        },
+        {
+          "x": -234,
+          "y": -129
+        }
+      ]
+    },
+    {
+      "source": "268dd77373",
+      "sourcePort": "out0",
+      "target": "e16ce323da",
+      "points": [
+        {
+          "x": 1236,
+          "y": 59
+        },
+        {
+          "x": -234,
+          "y": -129
+        }
+      ]
+    },
+    {
+      "source": "289ce19cac",
+      "sourcePort": "out0",
+      "target": "e16ce323da",
+      "points": [
+        {
+          "x": 1211,
+          "y": 270
+        },
+        {
+          "x": -234,
+          "y": -129
+        }
+      ]
+    },
+    {
+      "source": "29b30daf59",
+      "sourcePort": "out0",
+      "target": "e16ce323da",
+      "points": [
+        {
+          "x": 771,
+          "y": 374
+        },
+        {
+          "x": -234,
+          "y": -129
+        }
+      ]
+    },
+    {
+      "source": "45e6cbe765",
+      "sourcePort": "out0",
+      "target": "e16ce323da",
+      "points": [
+        {
+          "x": -144,
+          "y": 425
+        },
+        {
+          "x": -234,
+          "y": -129
+        }
+      ]
+    },
+    {
+      "source": "88517b7608",
+      "sourcePort": "out0",
+      "target": "e16ce323da",
+      "points": [
+        {
+          "x": 256,
+          "y": -521
+        },
+        {
+          "x": -234,
+          "y": -129
+        }
+      ]
+    },
+    {
+      "source": "a2ff1cfc62",
+      "sourcePort": "out0",
+      "target": "e16ce323da",
+      "points": [
+        {
+          "x": 776,
+          "y": 685
+        },
+        {
+          "x": -234,
+          "y": -129
+        }
+      ]
+    },
+    {
+      "source": "ab5bf115e7",
+      "sourcePort": "out0",
+      "target": "e16ce323da",
+      "points": [
+        {
+          "x": 241,
+          "y": 744
+        },
+        {
+          "x": -234,
+          "y": -129
+        }
+      ]
+    },
+    {
+      "source": "bbec391398",
+      "sourcePort": "out0",
+      "target": "e16ce323da",
+      "points": [
+        {
+          "x": 906,
+          "y": -477
+        },
+        {
+          "x": -234,
+          "y": -129
+        }
+      ]
+    },
+    {
+      "source": "e16ce323da",
+      "sourcePort": "out2",
+      "target": "20e4c2d0d8",
+      "points": [
+        {
+          "x": -34,
+          "y": 1
+        },
+        {
+          "x": 1001,
+          "y": -434
+        }
+      ]
+    },
+    {
+      "source": "e16ce323da",
+      "sourcePort": "out3",
+      "target": "268dd77373",
+      "points": [
+        {
+          "x": -34,
+          "y": 30
+        },
+        {
+          "x": 1036,
+          "y": -169
+        }
+      ]
+    },
+    {
+      "source": "e16ce323da",
+      "sourcePort": "out4",
+      "target": "289ce19cac",
+      "points": [
+        {
+          "x": -34,
+          "y": 59
+        },
+        {
+          "x": 1011,
+          "y": 107
+        }
+      ]
+    },
+    {
+      "source": "e16ce323da",
+      "sourcePort": "out5",
+      "target": "29b30daf59",
+      "points": [
+        {
+          "x": -34,
+          "y": 88
+        },
+        {
+          "x": 571,
+          "y": 177
+        }
+      ]
+    },
+    {
+      "source": "e16ce323da",
+      "sourcePort": "out9",
+      "target": "45e6cbe765",
+      "points": [
+        {
+          "x": -34,
+          "y": 204
+        },
+        {
+          "x": -344,
+          "y": 292
+        }
+      ]
+    },
+    {
+      "source": "e16ce323da",
+      "sourcePort": "out0",
+      "target": "88517b7608",
+      "points": [
+        {
+          "x": -34,
+          "y": -57
+        },
+        {
+          "x": 56,
+          "y": -659
+        }
+      ]
+    },
+    {
+      "source": "e16ce323da",
+      "sourcePort": "out6",
+      "target": "a2ff1cfc62",
+      "points": [
+        {
+          "x": -34,
+          "y": 117
+        },
+        {
+          "x": 576,
+          "y": 551
+        }
+      ]
+    },
+    {
+      "source": "e16ce323da",
+      "sourcePort": "out7",
+      "target": "ab5bf115e7",
+      "points": [
+        {
+          "x": -34,
+          "y": 146
+        },
+        {
+          "x": 41,
+          "y": 516
+        }
+      ]
+    },
+    {
+      "source": "e16ce323da",
+      "sourcePort": "out1",
+      "target": "bbec391398",
+      "points": [
+        {
+          "x": -34,
+          "y": -28
+        },
+        {
+          "x": 706,
+          "y": -649
+        }
+      ]
+    },
+    {
+      "source": "e8f45ae640",
+      "sourcePort": "out0",
+      "target": "e16ce323da",
+      "points": [
+        {
+          "x": -354,
+          "y": 59
+        },
+        {
+          "x": -234,
+          "y": -129
+        }
+      ]
+    }
+  ]
+}

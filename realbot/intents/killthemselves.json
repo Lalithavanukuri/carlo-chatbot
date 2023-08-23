@@ -1,0 +1,22 @@
+{
+  "name": "killthemselves",
+  "utterances": {
+    "en": [
+      "How do I respond if someone says that they want to kill themselves?",
+      "what to say to a person who has sucidal thoughts by a victim of cyberbullying?",
+      "h﻿ow can i mentally support who has sucidal thoughts?",
+      "w﻿hat can i do when cyberbullied victims is prone to sucidal thoughts?",
+      "h﻿ow can talk to a person who has sucidal thoughts?",
+      "w﻿hat should i do to help a victim from sucidal thoughts?",
+      "What to Say to Someone Who Is Depressed being cyberbullied?",
+      "h﻿ow to console a depressed person?",
+      "w﻿hat can i do when someone says they feel lonely?",
+      "w﻿hat can i do to help victims from being depressed or anxiety attacks?",
+      "I﻿n what ways can i help to a person who is prone to depression?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

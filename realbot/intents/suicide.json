@@ -1,0 +1,30 @@
+{
+  "name": "suicide",
+  "utterances": {
+    "en": [
+      "i want to kill myself",
+      "i want to die",
+      "i want to commit suicide",
+      "i want to end mylife",
+      "its hard to continue",
+      "i want to end this misery",
+      "i want to quit",
+      "i feel like dying",
+      "i cant live anymore as a victim",
+      "i cant take this bullying anymore",
+      "its too hard to survive",
+      "i think its best to end mylife",
+      "i think my sufferings will come to an end if i just die",
+      "there wont be any problems if i die",
+      "no one will suffer anymore if i die",
+      "my parents will be happy if i die",
+      "i wish i get vanished from this earth",
+      "i wish i doesnt exist in this earth",
+      "no one cares if I live or die"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

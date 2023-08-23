@@ -1,0 +1,86 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "randomId": "oi29vfn41l",
+    "contentId": "builtin_single-choice-662hpc",
+    "invalidContentId": "",
+    "keywords": {
+      "Yes, I need to file a complaint to cyber crime police.": [
+        "Yes, I need to file a complaint to cyber crime police."
+      ],
+      "No, but i want you to help me with something else": [
+        "No, but i want you to help me with something else"
+      ]
+    },
+    "config": {
+      "nbMaxRetries": 3,
+      "repeatChoicesOnInvalid": false,
+      "variableName": ""
+    }
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_single-choice-662hpc {\"skill\":\"choice\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "019324"
+    },
+    {
+      "name": "parse",
+      "onReceive": [
+        "basic-skills/choice_parse_answer {\"randomId\":\"oi29vfn41l\",\"contentId\":\"builtin_single-choice-662hpc\",\"invalidContentId\":\"\",\"keywords\":{\"Yes, I need to file a complaint to cyber crime police.\":[\"Yes, I need to file a complaint to cyber crime police.\"],\"No, but i want you to help me with something else\":[\"No, but i want you to help me with something else\"]},\"config\":{\"nbMaxRetries\":3,\"repeatChoicesOnInvalid\":false,\"variableName\":\"\"}}"
+      ],
+      "next": [
+        {
+          "condition": "temp['skill-choice-valid-oi29vfn41l'] === true",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "invalid"
+        }
+      ],
+      "onEnter": [],
+      "id": "265064"
+    },
+    {
+      "name": "invalid",
+      "onEnter": [
+        "basic-skills/choice_invalid_answer {\"randomId\":\"oi29vfn41l\"}"
+      ],
+      "next": [
+        {
+          "condition": "Number(temp['skill-choice-invalid-count-oi29vfn41l']) > Number(3)",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "sorry"
+        }
+      ],
+      "id": "001708"
+    },
+    {
+      "name": "sorry",
+      "onEnter": [],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "944639"
+    }
+  ]
+}

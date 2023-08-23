@@ -1,0 +1,30 @@
+{
+  "name": "asaparent",
+  "utterances": {
+    "en": [
+      "What can I do if my child is involved in online bullying?",
+      "i﻿ think my child is involved in bullying, what can i do?",
+      "a﻿s a parent, what can i possibly do to help by child who is being bullied?",
+      "w﻿hat are the steps that i need to take to help my child as a parent?",
+      "How to deal with my children if they are involved in some kind of cyber bullying?",
+      "what can i do if my child is being bullied?",
+      "what to do if my child is a bully?",
+      "I observed my child acting as a bully, what can i do?",
+      "I think my child is a bully, what to do?",
+      "I think my son is being harassed, what can i do to help him?",
+      "What are the steps that i need to take as a parent to help my child who is a victim of cyber-bullying.",
+      "Should i be supportive to my bully child?",
+      "H﻿ow can i support my child?",
+      "What can i possibly tell to my kid who is being bullied online?",
+      "I think someone is bullying my kid online, what should i do?",
+      "What are the immediate steps that must be taken in order to help my child who is being bullied online?",
+      "How can i treat my child who is acting as bully?",
+      "Should i try being supportive to my kid who is a bully?",
+      "What can i do to make my child realise that it's not a good thing to bully someone?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

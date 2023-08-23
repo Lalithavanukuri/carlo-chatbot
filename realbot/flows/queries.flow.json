@@ -1,0 +1,233 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "description": "",
+  "nodes": [
+    {
+      "id": "e8f45ae640",
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_text-5Q2XDW"
+      ],
+      "onReceive": null,
+      "next": [
+        {
+          "condition": "true",
+          "node": "querynode"
+        }
+      ],
+      "type": "standard"
+    },
+    {
+      "id": "e16ce323da",
+      "name": "querynode",
+      "next": [
+        {
+          "condition": "event.nlu.intent.name === 'harassment'",
+          "conditionType": "intent",
+          "node": "node-e3af"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'cyberbullying'",
+          "conditionType": "intent",
+          "node": "node-bd1b"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'whatcomesundercyberbullying'",
+          "conditionType": "intent",
+          "node": "node-1a45"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'typesofbullying'",
+          "conditionType": "intent",
+          "node": "node-9992"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'preventivemeasures'",
+          "conditionType": "intent",
+          "node": "node-7c14"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'leakedonline'",
+          "conditionType": "intent",
+          "node": "node-5811"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'lawabout'",
+          "conditionType": "intent",
+          "node": "node-3e3b"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'addinfo'",
+          "conditionType": "intent",
+          "node": "node-1c75"
+        },
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "support.flow.json#supportnode"
+        },
+        {
+          "condition": "true",
+          "node": "node-5a0c"
+        }
+      ],
+      "onEnter": [],
+      "onReceive": [],
+      "type": "standard"
+    },
+    {
+      "id": "88517b7608",
+      "name": "node-e3af",
+      "next": [
+        {
+          "condition": "true",
+          "node": "querynode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-RNx8zi"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "bbec391398",
+      "name": "node-bd1b",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "querynode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-DVIztm",
+        "say #!builtin_text-ywdfUf"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "20e4c2d0d8",
+      "name": "node-1a45",
+      "next": [
+        {
+          "condition": "true",
+          "node": "querynode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-CU_xfJ"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "29b30daf59",
+      "name": "node-5811",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "querynode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-7dbyOt",
+        "say #!builtin_text-6FKjet",
+        "say #!builtin_text-Ozdyjv"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "a2ff1cfc62",
+      "name": "node-3e3b",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "querynode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-168qdH"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "ab5bf115e7",
+      "name": "node-1c75",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "querynode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-k-_AlV",
+        "say #!builtin_text-6NdiqP",
+        "say #!builtin_text-iB_6Xp",
+        "say #!builtin_text-a6u3IX"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "45e6cbe765",
+      "name": "node-5a0c",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "querynode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-23onxA"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "289ce19cac",
+      "name": "node-7c14",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "querynode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-LSNGTx",
+        "say #!builtin_text-FQ8tVt"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "268dd77373",
+      "name": "node-9992",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "querynode"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-bbUvzi",
+        "say #!builtin_text-VspAXD",
+        "say #!builtin_text-Rvb9KG",
+        "say #!builtin_text-JUkX7T"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

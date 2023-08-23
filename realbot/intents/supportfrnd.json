@@ -1,0 +1,22 @@
+{
+  "name": "supportfrnd",
+  "utterances": {
+    "en": [
+      "what you can do to support a friend who is being cyberbullied?",
+      "h﻿ow can i console my friend who is cyberbullied?",
+      "h﻿ow to give mental support to one who is cyberbullied?",
+      "h﻿ow to support my friend in cyberattack?",
+      "h﻿ow can i include courage in my friend who is prone to cyber attack?",
+      "w﻿hat can you say to one who is cyberbullied?",
+      "h﻿ow to support cyberbullied victims?",
+      "h﻿ow can i assist my friend?",
+      "h﻿ow to assist my friend",
+      "h﻿ow to be there from my friend",
+      "h﻿ow can i help my friend who is cyberbullied?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

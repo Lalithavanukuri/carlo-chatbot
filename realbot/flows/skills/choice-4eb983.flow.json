@@ -1,0 +1,86 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "randomId": "s8g5s1rume",
+    "contentId": "builtin_single-choice-_ZbYSM",
+    "invalidContentId": "",
+    "keywords": {
+      "I would like to know more about mental health related issues.": [
+        "I would like to know more about mental health related issues."
+      ],
+      "I would like to know more about cyber crimes.": [
+        "I would like to know more about cyber crimes."
+      ]
+    },
+    "config": {
+      "nbMaxRetries": 3,
+      "repeatChoicesOnInvalid": false,
+      "variableName": ""
+    }
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_single-choice-_ZbYSM {\"skill\":\"choice\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "316877"
+    },
+    {
+      "name": "parse",
+      "onReceive": [
+        "basic-skills/choice_parse_answer {\"randomId\":\"s8g5s1rume\",\"contentId\":\"builtin_single-choice-_ZbYSM\",\"invalidContentId\":\"\",\"keywords\":{\"I would like to know more about mental health related issues.\":[\"I would like to know more about mental health related issues.\"],\"I would like to know more about cyber crimes.\":[\"I would like to know more about cyber crimes.\"]},\"config\":{\"nbMaxRetries\":3,\"repeatChoicesOnInvalid\":false,\"variableName\":\"\"}}"
+      ],
+      "next": [
+        {
+          "condition": "temp['skill-choice-valid-s8g5s1rume'] === true",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "invalid"
+        }
+      ],
+      "onEnter": [],
+      "id": "803604"
+    },
+    {
+      "name": "invalid",
+      "onEnter": [
+        "basic-skills/choice_invalid_answer {\"randomId\":\"s8g5s1rume\"}"
+      ],
+      "next": [
+        {
+          "condition": "Number(temp['skill-choice-invalid-count-s8g5s1rume']) > Number(3)",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "sorry"
+        }
+      ],
+      "id": "945159"
+    },
+    {
+      "name": "sorry",
+      "onEnter": [],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "500257"
+    }
+  ]
+}

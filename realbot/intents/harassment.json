@@ -1,0 +1,35 @@
+{
+  "name": "harassment",
+  "utterances": {
+    "en": [
+      "What is harassment?",
+      "What is cyber harassment?",
+      "Harassment can be in the form of?",
+      "i﻿n what forms can harassment be",
+      "how to know that i  am being harassed?",
+      "Is harassment done anonymously?",
+      "How can we understand harassment as?",
+      "How can we define harassment?",
+      "how is harassment defined?",
+      "w﻿hat comes under harassment?",
+      "What are used to harass people?",
+      "Can people be harassed by means of email and messaging?",
+      "i﻿ am getting too many calls from unknown, is that considered as harassment?",
+      "I am getting too many spam messages, is it considered as harassment?",
+      "Someone is insulting me in messages, is this harassment?",
+      "How do i know that i am being harassed?",
+      "I am getting too many spam messages",
+      "Someone is insulting me in messages",
+      "someone is threatening me with my personal images and videos",
+      "someone unknown is continuously messaging me over Instagram",
+      "unkown person is continuously messaging me over WhatsApp",
+      "someone is continuously messaging me via Facebook",
+      "I am receiving vulgar messages through social media platforms",
+      "someone is threatening me online"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

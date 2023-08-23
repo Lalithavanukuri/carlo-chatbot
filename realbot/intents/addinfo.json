@@ -1,0 +1,23 @@
+{
+  "name": "addinfo",
+  "utterances": {
+    "en": [
+      "Where can I obtain additional information for preventing bullying?",
+      "are there any means by which i can get more info about bullying and crimes?",
+      "g﻿ive me few websites that has some additional information regarding cyber crimes",
+      "g﻿ive me more information",
+      "g﻿ive me more info",
+      "g﻿imme more info",
+      "g﻿imme more information",
+      "What are the other available sources where i can get information about prevention of cyber bullying?",
+      "from where else can i know more about this cyber crimes?",
+      "w﻿hat other sources of information do i have?",
+      "w﻿hat are few websites that give me information about cyber crimes",
+      "u﻿rls of websites that gives info about cyber crimes"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cry",
+  "utterances": {
+    "en": [
+      "i cry a lot",
+      "i cry a lot is that ok",
+      "why do i cry easily",
+      "how to get rid of this pain",
+      "i don't know how to face my friends",
+      "i don't know how to face people",
+      "i dont know how to face my parents",
+      "i dont know how to move on with life",
+      "i wanna cry",
+      "i cry a lot due to cyberbulling"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

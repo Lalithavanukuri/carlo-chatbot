@@ -1,0 +1,21 @@
+{
+  "name": "typesofbullying",
+  "utterances": {
+    "en": [
+      "What are some examples of bullying?",
+      "what are some kinds of bullying?",
+      "t﻿ypes of bullying?",
+      "v﻿erbal bullying includes?",
+      "w﻿hat does verbal bullying includes?",
+      "w﻿hat are various types of cyberbullies?",
+      "s﻿ocial bullying means?",
+      "d﻿oes teasing online comes under cyberbullying?",
+      "v﻿arities of bullying?",
+      "I﻿s verbal bullying a kind of cyberbullying?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

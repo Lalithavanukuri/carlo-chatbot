@@ -1,0 +1,27 @@
+{
+  "name": "cyberbullying",
+  "utterances": {
+    "en": [
+      "What is cyberbullying?",
+      "Are cyber harassment and cyberbullying the same?",
+      "How similar are cyber harassment and cyberbullying?",
+      "what are the means of carrying out harassment?",
+      "Is cyber bullying directed towards us only online?",
+      "What kind of devices or services does cyberbullies use?",
+      "Eloborate cyber bullying.",
+      "Is there a chance of in-person attacks in case of cyber bullying?",
+      "Is cyber bullying done anonymously?",
+      "What internet-connected devices and web-services are used to bully people?",
+      "How do i know that i am being cyber bullying?",
+      "h﻿ow can i know that am being cyber bullied?",
+      "e﻿xplain cyber bullying",
+      "a﻿re cyber attacks only online?",
+      "What springs to mind when you hear the word ‘cyber-bullying’?",
+      "How can someone be bullied in cyber-space?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}
